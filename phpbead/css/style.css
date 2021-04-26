@@ -1,0 +1,43 @@
+#list-cont{
+    border: 1px solid black;
+    margin-top: 5%;
+}
+
+#title{
+    text-align: center;
+}
+
+.date_list_items{
+    margin:0 20px 20px 0;
+    vertical-align:top;
+}
+
+.redtext{
+    color : red;
+}
+
+.box{
+    border: 1px solid black;
+}
+
+.red{
+    color: #a7342d;
+}
+
+.red-button{
+    border-color:  #a7342d;
+    color:  #a7342d
+}
+
+.green{
+    color: green;
+}
+
+.green-button{
+    border-color:  green;
+    color: green;
+}
+
+a{
+    text-decoration: none;
+}

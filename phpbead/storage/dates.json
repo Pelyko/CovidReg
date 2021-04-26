@@ -1,0 +1,38 @@
+{
+    "5ffaf588d68f3": {
+        "date": "2021\/01\/20",
+        "time": "12:00",
+        "max_slots": 5,
+        "full_slots": 0,
+        "users": [],
+        "id": "5ffaf588d68f3"
+    },
+    "5ffaf59cc12fc": {
+        "date": "2021\/01\/22",
+        "time": "15:00",
+        "max_slots": 5,
+        "full_slots": 1,
+        "users": [
+            "5ff6cdbb7ba0a"
+        ],
+        "id": "5ffaf59cc12fc"
+    },
+    "5ffb0b6e31dea": {
+        "date": "2021\/02\/13",
+        "time": "14:00",
+        "max_slots": 5,
+        "full_slots": 0,
+        "users": [],
+        "id": "5ffb0b6e31dea"
+    },
+    "5ffb14100813a": {
+        "date": "2021\/01\/25",
+        "time": "16:00",
+        "max_slots": 2,
+        "full_slots": 1,
+        "users": [
+            "5ff5cd9f8aa49"
+        ],
+        "id": "5ffb14100813a"
+    }
+}

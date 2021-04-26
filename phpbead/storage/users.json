@@ -1,0 +1,72 @@
+{
+    "5ff5cd59bb73f": {
+        "name": "Silye P\u00e9ter",
+        "TAJ": "123123123",
+        "address": "Esztergom",
+        "email": "pboy.pboy1@gmail.com",
+        "password": "$2y$10$UGre1f7FbTNyurGGGCOkSeAZc9.BwpBeeZhBwIcxRKJMb4wKTcPWG",
+        "id": "5ff5cd59bb73f",
+        "appointment": 0,
+        "rank": "user"
+    },
+    "5ff5cd9f8aa49": {
+        "name": "asd",
+        "TAJ": "321321321",
+        "address": "Esztergom",
+        "email": "silye.peter98@gmail.com",
+        "password": "$2y$10$IPYqAaGrKg7834QKj2Wnwu48KNW89Aw03A\/GSNLAqnBiz9JQgKB\/a",
+        "id": "5ff5cd9f8aa49",
+        "appointment": "5ffb14100813a",
+        "rank": "user"
+    },
+    "5ff6cdbb7ba0a": {
+        "name": "Farkas Merc\u00e9desz",
+        "TAJ": "123456789",
+        "address": "Esztergom Palkovics K\u00e1roly utca 10",
+        "email": "fmerci99@gmail.com",
+        "password": "$2y$10$WBVJtGPmUf0loFZZQifxxOpM5WiU8ouZMF5pPVkE6qb2g0dmxD.Uq",
+        "id": "5ff6cdbb7ba0a",
+        "appointment": "5ffaf59cc12fc",
+        "rank": "user"
+    },
+    "5ff6eb09ea002": {
+        "name": "Szil\u00e1gyi",
+        "TAJ": "987654321",
+        "address": "Di\u00f3sv\u00f6lgy",
+        "email": "szka1998@gmail.com",
+        "password": "$2y$10$AtyZTezmkanLshk56Z\/Yw.fhzU.w42wA8SWao4OksUE9Dgm9fnqwa",
+        "appointment": 0,
+        "id": "5ff6eb09ea002",
+        "rank": "user"
+    },
+    "5ff6fd57189c4": {
+        "name": "ADMIN",
+        "TAJ": "000000000",
+        "address": "ADMIN",
+        "email": "admin@nemkovid.hu",
+        "password": "$2y$10$Q75qEzHqrF0muSpxzqkVlekEWUwpnD7HuAYIS50cIsecVlx7r\/ya6",
+        "appointment": 0,
+        "rank": "admin",
+        "id": "5ff6fd57189c4"
+    },
+    "5ff80cac0340e": {
+        "name": "Silye J\u00f3zsef",
+        "TAJ": "015769741",
+        "address": "Esztergom, Galagony\u00e1s u. 5",
+        "email": "silye.jozsef24@gmail.com",
+        "password": "$2y$10$GRiyFnhu4XghF\/U2vIwKD.j88w8LbxvK2H.yTWHWN9B9M1k\/Q7pA6",
+        "appointment": 0,
+        "rank": "user",
+        "id": "5ff80cac0340e"
+    },
+    "5ff80e1d0ef38": {
+        "name": "Sily\u00e9n\u00e9 Grim Erika",
+        "TAJ": "043106256",
+        "address": "2500 Esztergom, Galagony\u00e1s u. 5.",
+        "email": "grimerika@gmail.com",
+        "password": "$2y$10$njqkCOQGydbwB1T6PoLzj.2Mb2F1wB6lCXyQpRtjjcRyZLukw3kU2",
+        "appointment": 0,
+        "rank": "user",
+        "id": "5ff80e1d0ef38"
+    }
+}
